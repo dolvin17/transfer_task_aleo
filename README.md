@@ -1,6 +1,7 @@
 ## Creating a new Leo program
 
 `leo new token_f3_vc`
+
 It has to look like this
 
 <img width="698" alt="Pasted Graphic 3" src="https://github.com/dolvin17/transfer_task_aleo/assets/101130252/324bd7cd-0fba-4114-ba94-668613ebd984">
