@@ -1,11 +1,18 @@
 ## Creating a new Leo program
+
 `leo new token_f3_vc`
 It has to look like this
+
 <img width="698" alt="Pasted Graphic 3" src="https://github.com/dolvin17/transfer_task_aleo/assets/101130252/324bd7cd-0fba-4114-ba94-668613ebd984">
+
 ******Token Struct && mint function for tokens****** 
+
 <img width="546" alt="KaroleKarol-2 ~  cd token_f3_vc" src="https://github.com/dolvin17/transfer_task_aleo/assets/101130252/b0c5bc42-68c4-43ec-b0f7-5ed350ed7762">
+
 Here is mint function:
+
 <img width="855" alt="Pasted Graphic 2" src="https://github.com/dolvin17/transfer_task_aleo/assets/101130252/fc3ce9b2-f6c8-41b5-b50c-ffc9f8ee68e9">
+
 Compile the mint function to mint token to address.
 `leo run mint <leo address> <amount>`
 <img width="1110" alt="image" src="https://github.com/dolvin17/transfer_task_aleo/assets/101130252/02f3bba3-033f-4cbe-abdf-93dbb59e32f8">
