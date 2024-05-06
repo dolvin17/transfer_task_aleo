@@ -35,19 +35,26 @@ Our record Token comes from Output given by mint function compiled.
 
 Should be pass to transfer function this way: 
 
-`leo run transfer <"record"> <recepient_address> <amount> 
+`leo run transfer <"record"> <recepient_address> <amount>`
 
 <img width="988" alt="image" src="https://github.com/dolvin17/transfer_task_aleo/assets/101130252/c1276e2b-3a9b-4699-a05e-72da6688ac8e">
 
 if everything goes perfect, we should get the other two records: balance status, and transfered amount.
 
 <img width="951" alt="image" src="https://github.com/dolvin17/transfer_task_aleo/assets/101130252/ed1f3ac2-7bd8-41e4-b427-3b034be9eb0d">
+
 ##Deployment:
+
 To deploy you should add a script.
+
 `bash deploy.sh`
+
 (check the code below. And dont forget to update your own private key and the rigth  `ID PROGRAM `and the rigth `PATH`to your `BUILD`Folder.)
+
+Here is the transaction: **at13qk2ncta3a2xkuztfpq0gfujh885qpj07g8q468y8hul7h40h5xqkrkmrc**
+
 <img width="1203" alt="image" src="https://github.com/dolvin17/transfer_task_aleo/assets/101130252/f2067879-4b55-4edb-ab7c-3805fa45fdf7">
-Here is the transaction: *at13qk2ncta3a2xkuztfpq0gfujh885qpj07g8q468y8hul7h40h5xqkrkmrc*
+
 here is the URL to transaction: https://testnet3.aleoscan.io/search?q=at13qk2ncta3a2xkuztfpq0gfujh885qpj07g8q468y8hul7h40h5xqkrkmrc 
 
 
